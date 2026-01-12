@@ -10,8 +10,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Content by Erin Gorsich Lab"
-description:	       "Powered by Jekyll and the Millennial theme by"
+title:		           "Gorsich Lab"
+description:	       "Powered by Github pages and Jekyll, theme Millennial by"
 author:              	"Paul Le"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
