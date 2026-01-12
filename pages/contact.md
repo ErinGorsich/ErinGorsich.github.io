@@ -4,4 +4,6 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+You can find us at the Univerity of Warwick in the [School of Life Sciences](https://warwick.ac.uk/fac/sci/lifesci/) and [The Zeeman Institute](https://warwick.ac.uk/fac/cross_fac/zeeman_institute/). 
+
+Please contact me by email at: erin.gorsich@warwick.ac.uk
