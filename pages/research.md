@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Interesting Facts
+title: Disease Ecology Research at Warwick
 category: facts
-permalink: /facts
+permalink: /research
 ---
